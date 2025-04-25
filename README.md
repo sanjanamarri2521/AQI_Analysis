@@ -58,7 +58,7 @@ This line graph shows AQI trends in China over time. The sharp peak around March
 ### 5. AQI Trends – India, Pakistan, China
 A comparative line chart tracking monthly AQI levels across three neighboring countries. The graph shows consistent AQI increases during the winter months (Nov–Jan), a result of winter smog formed by trapped pollutants due to temperature inversions.
 
-![Winter Smog Comparison](images/winter_smog_comparison.png)
+![Winter Smog Comparison](https://github.com/sanjanamarri2521/AQI_Analysis/blob/main/images/winter_smog_comparision.png)
 
 ---
 
